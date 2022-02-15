@@ -4,8 +4,6 @@
  * which are which.
  */
 
-// hello
-
 const garbage = [
   "https://(.*\.)?zoom\.us/",
   "https://twitter\.com",
